@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\bin\Debug\net6.0\Tetris.exe
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\bin\Debug\net6.0\Tetris.deps.json
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\bin\Debug\net6.0\Tetris.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\bin\Debug\net6.0\Tetris.dll
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\bin\Debug\net6.0\Tetris.pdb
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.dll
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\refint\Tetris.dll
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.pdb
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\Tetris.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\tgkelit\dev\GitHub\Projects\Tetris\Tetris\obj\Debug\net6.0\ref\Tetris.dll
